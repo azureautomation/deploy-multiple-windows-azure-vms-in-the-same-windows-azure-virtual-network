@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 35562,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-multiple-windows-azure-vms-in-the-same-windows-azure-virtual-network/master/Add-AzureVMToVnet.ps1",
+    "DownloadCount": 4314,
+    "Id": "Create-Multiple-Windows-df9e95b7",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 243,
+    "RaterCount": 4,
+    "Rating": 5.0,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Creates four Windows Server 2012 Virtual Machines across two separate cloud services and adds them to the same virtual network.If the virtual network indicated does not exist then it is created.",
+    "Title": "Deploy Multiple Windows Azure VMs in the Same Windows Azure Virtual Network",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/deploy-multiple-windows-azure-vms-in-the-same-windows-azure-virtual-network",
+    "UserTags": "VM Lifecycle Management, Provisioning"
+}
